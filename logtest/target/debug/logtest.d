@@ -1,0 +1,1 @@
+C:\Users\ThomasHo\Desktop\thomas-rust-file-manager-tut-and-training\trian\logtest\target\debug\logtest.exe: C:\Users\ThomasHo\Desktop\thomas-rust-file-manager-tut-and-training\trian\logtest\src\main.rs

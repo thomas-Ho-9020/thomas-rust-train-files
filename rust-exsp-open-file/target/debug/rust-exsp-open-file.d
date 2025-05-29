@@ -1,0 +1,1 @@
+C:\Users\ThomasHo\Desktop\thomas-rust-file-manager-tut-and-training\trian\rust-exsp-open-file\target\debug\rust-exsp-open-file.exe: C:\Users\ThomasHo\Desktop\thomas-rust-file-manager-tut-and-training\trian\rust-exsp-open-file\src\main.rs

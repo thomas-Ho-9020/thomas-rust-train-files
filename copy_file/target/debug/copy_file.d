@@ -1,0 +1,1 @@
+C:\Users\ThomasHo\Desktop\thomas-rust-file-manager-tut-and-training\trian\copy_file\target\debug\copy_file.exe: C:\Users\ThomasHo\Desktop\thomas-rust-file-manager-tut-and-training\trian\copy_file\src\main.rs

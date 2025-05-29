@@ -1,0 +1,1 @@
+C:\Users\ThomasHo\Desktop\thomas-rust-file-manager-tut-and-training\trian\no_libaryz-copy-file\target\debug\no_libaryz-copy-file.exe: C:\Users\ThomasHo\Desktop\thomas-rust-file-manager-tut-and-training\trian\no_libaryz-copy-file\src\main.rs
