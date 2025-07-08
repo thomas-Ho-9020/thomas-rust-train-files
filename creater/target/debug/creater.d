@@ -1,0 +1,1 @@
+C:\Users\ThomasHo\Desktop\thomas-rust-file-manager-tut-and-training\trian\creater\target\debug\creater.exe: C:\Users\ThomasHo\Desktop\thomas-rust-file-manager-tut-and-training\trian\creater\src\main.rs

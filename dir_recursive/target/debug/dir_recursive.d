@@ -1,0 +1,1 @@
+C:\Users\ThomasHo\Desktop\thomas-rust-file-manager-tut-and-training\trian\dir_recursive\target\debug\dir_recursive.exe: C:\Users\ThomasHo\Desktop\thomas-rust-file-manager-tut-and-training\trian\dir_recursive\src\main.rs

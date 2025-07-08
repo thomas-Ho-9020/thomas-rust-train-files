@@ -1,0 +1,1 @@
+C:\Users\ThomasHo\Desktop\thomas-rust-file-manager-tut-and-training\trian\tcp_server\target\debug\tcp_server.exe: C:\Users\ThomasHo\Desktop\thomas-rust-file-manager-tut-and-training\trian\tcp_server\src\main.rs

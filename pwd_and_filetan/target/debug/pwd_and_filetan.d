@@ -1,0 +1,1 @@
+C:\Users\ThomasHo\Desktop\thomas-rust-file-manager-tut-and-training\trian\pwd_and_filetan\target\debug\pwd_and_filetan.exe: C:\Users\ThomasHo\Desktop\thomas-rust-file-manager-tut-and-training\trian\pwd_and_filetan\src\main.rs

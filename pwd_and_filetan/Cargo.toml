@@ -1,0 +1,6 @@
+[package]
+name = "pwd_and_filetan"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
